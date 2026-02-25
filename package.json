@@ -1,0 +1,9 @@
+{
+  "name": "apprunner-test",
+  "version": "1.0.0",
+  "description": "Simple AWS App Runner Test App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
